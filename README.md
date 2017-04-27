@@ -21,22 +21,23 @@
 
 ### Official Resources
 
-  - [Site](https://hexo.io/)
-  - [Doc](https://hexo.io/docs/)
-  - [API](https://hexo.io/api/)
-  - [Weibo](http://weibo.com/hexojs/)
-  - [Google Group](https://groups.google.com/forum/#!forum/hexo)
-  - [Twitter](https://twitter.com/hexojs)
-  - [Gitter](https://gitter.im/hexojs/hexo)
+  - [Site](https://hexo.io/) - Official site
+  - [Doc](https://hexo.io/docs/) - Documentation
+  - [API](https://hexo.io/api/) - API documentation
+  - [Weibo](http://weibo.com/hexojs/) - Weibo account
+  - [Google Group](https://groups.google.com/forum/#!forum/hexo) - forum
+  - [Twitter](https://twitter.com/hexojs) - Twitter account
+  - [Gitter](https://gitter.im/hexojs/hexo) - Gitter chat channel
+  - [Reddit](https://www.reddit.com/r/hexojs/) - Subreddit /r/hexojs
 
 ### External Resources
 
 
 # Themes
 
-  - [Themes List](https://hexo.io/themes/)
-  - [Hexo top 10 themes](https://en.abnerchou.me/Blog/5c00ca67/)
-  
+  - [Themes List](https://hexo.io/themes/) - Whole list of hexo supported themes
+  - [Hexo top 10 themes](https://en.abnerchou.me/Blog/5c00ca67/) - Top 10 themes based on github stars by @NoahDragon
+  
 # Plugins
 
-  - [Plugins List](https://hexo.io/plugins/)
+  - [Plugins List](https://hexo.io/plugins/) - Whole list of hexo supported plugins
