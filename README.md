@@ -36,7 +36,7 @@
 # Themes
 
   - [Themes List](https://hexo.io/themes/) - Whole list of hexo supported themes
-  - [Hexo top 10 themes](https://en.abnerchou.me/Blog/5c00ca67/) - Top 10 themes based on github stars by @NoahDragon
+  - [Hexo top 10 themes](https://en.abnerchou.me/Blog/5c00ca67/) - Top 10 themes based on github stars by @NoahDragon
   
 # Plugins
 
