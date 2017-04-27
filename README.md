@@ -24,7 +24,7 @@
   - [Site](https://hexo.io/)
   - [Doc](https://hexo.io/docs/)
   - [API](https://hexo.io/api/)
-  - [Weibo](http://weibo.com/hexojs)
+  - [Weibo](http://weibo.com/hexojs/)
   - [Google Group](https://groups.google.com/forum/#!forum/hexo)
   - [Twitter](https://twitter.com/hexojs)
   - [Gitter](https://gitter.im/hexojs/hexo)
