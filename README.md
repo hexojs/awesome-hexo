@@ -41,3 +41,19 @@
 # Plugins
 
   - [Plugins List](https://hexo.io/plugins/) - Whole list of hexo supported plugins
+  
+# Showcases
+
+  - [Hexo site](https://hexo.io/) - Hexo official site. [Source Code](https://github.com/hexojs/site)
+  - [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework. [Source Code](https://github.com/vuejs/vuejs.org)
+  - [IIssNan's Notes](http://notes.iissnan.com/) - Hexo theme **NexT** author IIssNan's personal blog. [Theme](https://github.com/iissnan/hexo-theme-next)
+  - [Barret Lee](http://www.barretlee.com/) - Barret Lee's personal website. [Source Code](https://github.com/barretlee/blog)
+  - [Litten](http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia)
+  - [Viosey's Blog](https://blog.viosey.com/) - Hexo theme **Material** author Viosey's personal blog. [Theme](https://github.com/viosey/hexo-theme-material)
+
+<!---- Content should above this line ---->
+<br/>
+<br/>
+<br/>
+<!---- Footer ---->
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
