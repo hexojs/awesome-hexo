@@ -40,7 +40,7 @@
   
 # Plugins
 
-  - [Plugins List](https://hexo.io/plugins/) - Whole list of hexo supported plugins
+  - [Plugins List](https://hexo.io/plugins/) - Whole list of hexo supported plugins
   
 # Showcases
 
