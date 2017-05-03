@@ -33,7 +33,7 @@
 ### External Resources
 
   - [Getting Started with the Hexo Blogging Framework](https://www.cgmartin.com/2016/01/03/getting-started-with-hexo-blog/)
-  - [Build Hexo 3.0 Blog on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04) - How to Create a Blog with Hexo On Ubuntu 14.04
+  - [Build Hexo 3.0 Blog on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04) - How to Create a Blog with Hexo On Ubuntu 14.04
   - [Hexo 3.0 Chinese Tutorial](http://www.jianshu.com/p/465830080ea9?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weibo) - HEXO+Github,搭建属于自己的博客
 
 # Themes
