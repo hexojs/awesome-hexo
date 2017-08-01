@@ -52,6 +52,7 @@
   - [Plugins List](https://hexo.io/plugins/) - Whole list of hexo supported plugins
   - Creating Plugins
     - [Develop a plugin for Hexo - Github Card](https://blog.gisonrg.me/2016/04/develop-hexo-github-card/)
+    - [Yeoman based plugin generator](https://github.com/sebs/generator-hexo-plugin)
   
 # Showcases
 
