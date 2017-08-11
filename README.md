@@ -5,12 +5,12 @@
   <br>
 </p>
 
-## Awesome Hexo 
+# Awesome Hexo 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to Hexo
 
-# Contents
+## Contents
 
 - [Resources](#resources)
   - [Official Resources](#official-resources)
@@ -19,7 +19,7 @@
 - [Plugins](#plugins)
 - [Showcases](#showcases)
 
-# Resources
+## Resources
 
 
 ### Official Resources
@@ -40,7 +40,7 @@
   - [Hexo 3.0 Chinese Tutorial](http://www.jianshu.com/p/465830080ea9?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weibo) - HEXO+Github,搭建属于自己的博客
   - [The Hexo Author Tommy Chen Presentation Video](http://www.ithome.com.tw/video/108430) - Modern Web 2016 - Hexo 開發歷程 by [Tommy Chen](https://github.com/tommy351)
 
-# Themes
+## Themes
 
   - [Themes List](https://hexo.io/themes/) - Whole list of hexo supported themes
   - [Hexo top 10 themes](https://en.abnerchou.me/Blog/5c00ca67/) - Top 10 themes based on github stars by @NoahDragon
@@ -50,13 +50,13 @@
       2. [Create an Hexo Theme - Part 2: Other Pages](http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-2-Other-Pages/)
       2. [Create an Hexo Theme - Part 3: Comments, Analytics and Widgets](http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-3-Comments-Analytics-and-Widgets/)
   
-# Plugins
+## Plugins
 
   - [Plugins List](https://hexo.io/plugins/) - Whole list of hexo supported plugins
   - Creating Plugins
     - [Develop a plugin for Hexo - Github Card](https://blog.gisonrg.me/2016/04/develop-hexo-github-card/)
   
-# Showcases
+## Showcases
 
   - [Hexo site](https://hexo.io/) - Hexo official site. [Source Code](https://github.com/hexojs/site)
   - [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework. [Source Code](https://github.com/vuejs/vuejs.org)
