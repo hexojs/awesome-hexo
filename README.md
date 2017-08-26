@@ -66,6 +66,7 @@
   - [Viosey's Blog](https://blog.viosey.com/) - Hexo theme **Material** author Viosey's personal blog. [Theme](https://github.com/viosey/hexo-theme-material)
   - [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) - Hexo wiki
   - [Elements of Programming Interviews](http://elementsofprogramminginterviews.com/) - Book site
+  - [tildeslash.io](https://tildeslash.io) - Joshua Li's Dev Blog. [Source Code](https://github.com/JoshuaRLi/tildeslash) | [Theme](https://github.com/JoshuaRLi/hexo-theme-kirei)
 
 <!---- Content should above this line ---->
 <br/>
