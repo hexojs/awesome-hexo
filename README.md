@@ -67,6 +67,7 @@
   - [Viosey's Blog](https://blog.viosey.com/) - Hexo theme **Material** author Viosey's personal blog. [Theme](https://github.com/viosey/hexo-theme-material)
   - [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) - Hexo wiki
   - [Elements of Programming Interviews](http://elementsofprogramminginterviews.com/) - Book site
+  - [Chathu's Visionaries](https://chathu.me) - Personal website of Chathu Vishwajith.
 
 <!---- Content should above this line ---->
 <br/>
