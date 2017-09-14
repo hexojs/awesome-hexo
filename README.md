@@ -38,8 +38,8 @@
   - [Build Hexo 3.0 Blog on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04) - How to Create a Blog with Hexo On Ubuntu 14.04
   - [Hexo 3.0 Chinese Tutorial](http://www.jianshu.com/p/465830080ea9?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weibo) - HEXO+Github,搭建属于自己的博客
   - [The Hexo Author Tommy Chen Presentation Video](http://www.ithome.com.tw/video/108430) - Modern Web 2016 - Hexo 開發歷程 by [Tommy Chen](https://github.com/tommy351)
-  - [Hexo Tutorial](https://www.youtube.com/watch?v=Kt7u5kr_P5o&list=PLLAZ4kZ9dFpOMJR6D25ishrSedvsguVSm) - Hexo tutorial for v3.3.9 on Youtube by [Giraffe Academy](http://www.giraffeacademy.com/)
-
+  - [Hexo Tutorial](http://www.giraffeacademy.com/static-site-generators/hexo/) - Hexo tutorial for v3.3.9 by Giraffe Academy
+  
 ## Themes
 
   - [Themes List](https://hexo.io/themes/) - Whole list of hexo supported themes
