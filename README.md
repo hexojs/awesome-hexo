@@ -5,7 +5,7 @@
   <br>
 </p>
 
-# Awesome Hexo  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hexojs/awesome-hexo.svg?branch=Add-New-Video-Tutorial)](https://travis-ci.org/hexojs/awesome-hexo)
+# Awesome Hexo  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/hexojs/awesome-hexo.svg?branch=master)](https://travis-ci.org/hexojs/awesome-hexo)
 
 > A curated list of awesome things related to Hexo
 
