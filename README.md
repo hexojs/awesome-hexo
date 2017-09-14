@@ -26,7 +26,6 @@
   - [Site](https://hexo.io/) - Official site
   - [Doc](https://hexo.io/docs/) - Documentation
   - [API](https://hexo.io/api/) - API documentation
-  - [Weibo](http://weibo.com/hexojs/) - Weibo account
   - [Google Group](https://groups.google.com/forum/#!forum/hexo) - forum
   - [Twitter](https://twitter.com/hexojs) - Twitter account
   - [Gitter](https://gitter.im/hexojs/hexo) - Gitter chat channel
