@@ -47,7 +47,8 @@
     - [CodeBlocq Series](http://www.codeblocq.com/tags/Hexo/)
       1. [Create an Hexo Theme - Part 1: Index](http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-1-Index/)
       2. [Create an Hexo Theme - Part 2: Other Pages](http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-2-Other-Pages/)
-      2. [Create an Hexo Theme - Part 3: Comments, Analytics and Widgets](http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-3-Comments-Analytics-and-Widgets/)
+      3. [Create an Hexo Theme - Part 3: Comments, Analytics and Widgets](http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-3-Comments-Analytics-and-Widgets/)
+    - [Yeoman based theme generator](https://github.com/tcrowe/generator-hexo-theme)
   
 ## Plugins
 
