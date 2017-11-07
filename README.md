@@ -61,7 +61,7 @@
 
   - [Hexo site](https://hexo.io/) - Hexo official site. [Source Code](https://github.com/hexojs/site)
   - [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework. [Source Code](https://github.com/vuejs/vuejs.org)
-  - [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteo. [Source Code](https://github.com/meteor/docs)
+  - [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/docs)
   - [IIssNan's Notes](http://notes.iissnan.com/) - Hexo theme **NexT** author IIssNan's personal blog. [Theme](https://github.com/iissnan/hexo-theme-next)
   - [Barret Lee](http://www.barretlee.com/) - Barret Lee's personal website. [Source Code](https://github.com/barretlee/blog)
   - [Litten](http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia)
