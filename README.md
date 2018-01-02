@@ -56,6 +56,10 @@
   - Creating Plugins
     - [Develop a plugin for Hexo - Github Card](https://blog.gisonrg.me/2016/04/develop-hexo-github-card/)
     - [Yeoman based plugin generator](https://github.com/sebs/generator-hexo-plugin)
+    
+## Third-party
+
+  - [Hexo Editor](https://github.com/zhuzhuyule/HexoEditor) - Electron based editor for Hexo. ([doc](https://github.com/zhuzhuyule/HexoEditor/tree/master/doc/en))
   
 ## Showcases
 
