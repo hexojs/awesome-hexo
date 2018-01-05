@@ -59,7 +59,7 @@
     
 ## Third-party
 
-  - [Hexo Editor](https://github.com/zhuzhuyule/HexoEditor) - Electron based editor for Hexo. ([doc](https://github.com/zhuzhuyule/HexoEditor/tree/master/doc/en))
+  - [Hexo Editor](https://github.com/zhuzhuyule/HexoEditor) - Electron based editor for Hexo.
   
 ## Showcases
 
