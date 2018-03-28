@@ -60,7 +60,7 @@
 ## Third-party
 
   - [Hexo Editor](https://github.com/zhuzhuyule/HexoEditor) - Electron based editor for Hexo.
-  - [Markdown Components](https://github.com/flexiodata/markdown-components) - Extend Markdown capabilities in Hexo with simple, inline JavaScript apps
+  - [Markdown Components](https://github.com/flexiodata/markdown-components) - Extend Markdown capabilities in Hexo with simple, inline JavaScript apps
   
 ## Showcases
 
