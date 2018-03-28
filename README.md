@@ -60,7 +60,8 @@
 ## Third-party
 
   - [Hexo Editor](https://github.com/zhuzhuyule/HexoEditor) - Electron based editor for Hexo.
-  
+  - [Markdown Components](https://github.com/flexiodata/markdown-components) - Extend Markdown capabilities in Hexo with simple, inline JavaScript apps
+  
 ## Showcases
 
   - [Hexo site](https://hexo.io/) - Hexo official site. [Source Code](https://github.com/hexojs/site)
@@ -74,6 +75,7 @@
   - [Elements of Programming Interviews](http://elementsofprogramminginterviews.com/) - Book site
   - [Sites using Hexo](https://www.wappalyzer.com/technologies/hexo) - List from Wappalyzer
   - [GORM site](http://gorm.io/) - The fantastic ORM library for Golang
+  - [Flex.io](https://www.flex.io/) - Build serverless data feeds in minutes
 
 <!---- Content should above this line ---->
 <br/>
