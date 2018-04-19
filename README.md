@@ -74,7 +74,7 @@
   - [Elements of Programming Interviews](http://elementsofprogramminginterviews.com/) - Book site
   - [Sites using Hexo](https://www.wappalyzer.com/technologies/hexo) - List from Wappalyzer
   - [GORM site](http://gorm.io/) - The fantastic ORM library for Golang
-  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) this library is created to manipulate and visualize state management pattern in the case of vuejs (Vuex).
+  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) This library is created to manipulate and visualize state management pattern in the case of vuejs (Vuex).
 
 <!---- Content should above this line ---->
 <br/>
