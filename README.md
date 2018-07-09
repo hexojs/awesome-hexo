@@ -38,6 +38,7 @@
   - [Hexo 3.0 Chinese Tutorial](https://www.jianshu.com/p/465830080ea9?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weibo) - HEXO+Github,搭建属于自己的博客
   - [The Hexo Author Tommy Chen Presentation Video](https://www.ithome.com.tw/video/108430) - Modern Web 2016 - Hexo 開發歷程 by [Tommy Chen](https://github.com/tommy351)
   - [Hexo Tutorial](http://www.giraffeacademy.com/static-site-generators/hexo/) - Hexo tutorial for v3.3.9 by Giraffe Academy
+  - [Build a Serverless Production-Ready Blog with Hexo on AWS](https://hackernoon.com/build-a-serverless-production-ready-blog-b1583c0a5ac2)
   
 ## Themes
 
