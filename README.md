@@ -38,6 +38,7 @@
   - [Hexo 3.0 Chinese Tutorial](https://www.jianshu.com/p/465830080ea9?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weibo) - HEXO+Github,搭建属于自己的博客
   - [The Hexo Author Tommy Chen Presentation Video](https://www.ithome.com.tw/video/108430) - Modern Web 2016 - Hexo 開發歷程 by [Tommy Chen](https://github.com/tommy351)
   - [Hexo Tutorial](http://www.giraffeacademy.com/static-site-generators/hexo/) - Hexo tutorial for v3.3.9 by Giraffe Academy
+  - [Build a Serverless Production-Ready Blog with Hexo on AWS](https://hackernoon.com/build-a-serverless-production-ready-blog-b1583c0a5ac2)
   
 ## Themes
 
@@ -66,7 +67,7 @@
   - [Hexo site](https://hexo.io/) - Hexo official site. [Source Code](https://github.com/hexojs/site)
   - [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework. [Source Code](https://github.com/vuejs/vuejs.org)
   - [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/docs)
-  - [IIssNan's Notes](http://notes.iissnan.com/) - Hexo theme **NexT** author IIssNan's personal blog. [Theme](https://github.com/iissnan/hexo-theme-next)
+  - [NexT](https://theme-next.org/) - Hexo theme **NexT** home website. [Theme](https://github.com/theme-next/hexo-theme-next)
   - [Barret Lee](http://www.barretlee.com/) - Barret Lee's personal website. [Source Code](https://github.com/barretlee/blog)
   - [Litten](http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia)
   - [Viosey's Blog](https://blog.viosey.com/) - Hexo theme **Material** author Viosey's personal blog. [Theme](https://github.com/viosey/hexo-theme-material)
@@ -75,6 +76,7 @@
   - [Sites using Hexo](https://www.wappalyzer.com/technologies/hexo) - List from Wappalyzer
   - [GORM site](http://gorm.io/) - The fantastic ORM library for Golang
   - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - Manipulate and visualize state management pattern in the case of vuejs (Vuex) [Source Code](https://github.com/lusaxweb/vuenut.org).
+  - [Flex.io](https://www.flex.io) - Build serverless data feeds in minutes
 
 <!---- Content should above this line ---->
 <br/>
