@@ -17,6 +17,7 @@
 - [Themes](#themes)
 - [Plugins](#plugins)
 - [Showcases](#showcases)
+- [Deployment](#deployment)
 
 ## Resources
 
@@ -77,6 +78,11 @@
   - [GORM site](http://gorm.io/) - The fantastic ORM library for Golang
   - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - Manipulate and visualize state management pattern in the case of vuejs (Vuex) [Source Code](https://github.com/lusaxweb/vuenut.org).
   - [Flex.io](https://www.flex.io) - Build serverless data feeds in minutes
+
+## Deployment
+
+  - [docker-hexo](https://github.com/RammusXu/docker-hexo) - Write blog and develop in docker environment. Easily set up and release by docker.
+
 
 <!---- Content should above this line ---->
 <br/>
