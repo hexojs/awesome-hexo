@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe -w weibo.com,viosey.com
+  - awesome_bot README.md --allow-dupe -w weibo.com,viosey.com,hackernoon.com
