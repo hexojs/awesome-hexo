@@ -38,8 +38,8 @@
   - [Build Hexo 3.0 Blog on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04) - How to Create a Blog with Hexo On Ubuntu 14.04
   - [Hexo 3.0 Chinese Tutorial](https://www.jianshu.com/p/465830080ea9?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weibo) - HEXO+Github,搭建属于自己的博客
   - [The Hexo Author Tommy Chen Presentation Video](https://www.ithome.com.tw/video/108430) - Modern Web 2016 - Hexo 開發歷程 by [Tommy Chen](https://github.com/tommy351)
-  - [Hexo Tutorial](http://www.giraffeacademy.com/static-site-generators/hexo/) - Hexo tutorial for v3.3.9 by Giraffe Academy
-  - [Build a Serverless Production-Ready Blog with Hexo on AWS](https://hackernoon.com/build-a-serverless-production-ready-blog-b1583c0a5ac2)
+  - [Hexo Tutorial](http://www.mikedane.com/static-site-generators/hexo/) - Hexo tutorial for v3.3.9 by Giraffe Academy
+  - [Build a Serverless Production-Ready Blog with Hexo on AWS](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fhackernoon.com%2Fbuild-a-serverless-production-ready-blog-b1583c0a5ac2 )
   
 ## Themes
 
@@ -69,9 +69,9 @@
   - [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework. [Source Code](https://github.com/vuejs/vuejs.org)
   - [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/docs)
   - [NexT](https://theme-next.org/) - Hexo theme **NexT** home website. [Theme](https://github.com/theme-next/hexo-theme-next)
-  - [Barret Lee](http://www.barretlee.com/) - Barret Lee's personal website. [Source Code](https://github.com/barretlee/blog)
+  - [Barret Lee](https://www.barretlee.com/) - Barret Lee's personal website. [Source Code](https://github.com/barretlee/blog)
   - [Litten](http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia)
-  - [Viosey's Blog](https://blog.viosey.com/) - Hexo theme **Material** author Viosey's personal blog. [Theme](https://github.com/viosey/hexo-theme-material)
+  - [Viosey's Blog](http://blog.viosey.com/) - Hexo theme **Material** author Viosey's personal blog. [Theme](https://github.com/viosey/hexo-theme-material)
   - [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) - Hexo wiki
   - [Elements of Programming Interviews](http://elementsofprogramminginterviews.com/) - Book site
   - [Sites using Hexo](https://www.wappalyzer.com/technologies/hexo) - List from Wappalyzer
