@@ -30,6 +30,7 @@
   - [Google Group](https://groups.google.com/forum/#!forum/hexo) - forum
   - [Twitter](https://twitter.com/hexojs) - Twitter account
   - [Gitter](https://gitter.im/hexojs/hexo) - Gitter chat channel
+  - [Telegram](https://t.me/hexojs) - Telegram chat channel
   - [Reddit](https://www.reddit.com/r/hexojs/) - Subreddit /r/hexojs
 
 ### External Resources
