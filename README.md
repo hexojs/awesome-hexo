@@ -63,6 +63,7 @@
 ## Third-party
 
   - [Hexo Editor](https://github.com/zhuzhuyule/HexoEditor) - Electron based editor for Hexo.
+  - [Hexo Client](https://github.com/gaoyoubo/hexo-client) - Cross-Platform Hexo Client.
   
 ## Showcases
 
