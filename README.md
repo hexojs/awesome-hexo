@@ -16,6 +16,7 @@
   - [External Resources](#external-resources)
 - [Themes](#themes)
 - [Plugins](#plugins)
+- [Third-party](#third-party)
 - [Showcases](#showcases)
 - [Deployment](#deployment)
 
@@ -63,6 +64,7 @@
 ## Third-party
 
   - [Hexo Editor](https://github.com/zhuzhuyule/HexoEditor) - Electron based editor for Hexo.
+  - [Hexo Action](https://github.com/heowc/action-hexo) - GitHub Action for Hexo
   
 ## Showcases
 
