@@ -42,6 +42,7 @@
   - [Hexo Tutorial](https://www.mikedane.com/static-site-generators/hexo/) - Hexo tutorial for v3.3.9 by Giraffe Academy
   - [Build a Serverless Production-Ready Blog with Hexo on AWS](https://hackernoon.com/build-a-serverless-production-ready-blog-b1583c0a5ac2?gi=34e8961610b4)
   - [Hexo 中文教学](http://space.bilibili.com/362224537/channel/detail?cid=60350) - B站上的Hexo中文教学, 紧随官方文档
+  - [EasyHexo](https://easyhexo.com/) -  🤘 Build your own website with Hexo, the easy way. | 轻松使用 Hexo 建站。
   
 ## Themes
 
