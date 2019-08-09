@@ -74,7 +74,7 @@
   - [Hexo site](https://hexo.io/) - Hexo official site. [Source Code](https://github.com/hexojs/site)
   - [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework. [Source Code](https://github.com/vuejs/vuejs.org)
   - [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/docs)
-  - [NexT](https://theme-next.org/) - Hexo theme **NexT** home website. [Theme](https://github.com/theme-next/hexo-theme-next)
+  - [Theme NexT](https://theme-next.org) - Hexo theme **NexT** official website. [Source Code](https://github.com/theme-next/hexo-theme-next) & [Awesome NexT](https://github.com/theme-next/awesome-next)
   - [Barret Lee](https://www.barretlee.com/) - Barret Lee's personal website. [Source Code](https://github.com/barretlee/blog)
   - [Litten](http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia)
   - [Viosey's Blog](https://blog.viosey.com/) - Hexo theme **Material** author Viosey's personal blog. [Theme](https://github.com/viosey/hexo-theme-material)
