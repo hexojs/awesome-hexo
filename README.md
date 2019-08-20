@@ -61,8 +61,7 @@
   - [Plugins List](https://hexo.io/plugins/) - Whole list of hexo supported plugins
   - Creating Plugins
     - [Develop a plugin for Hexo - Github Card](https://blog.gisonrg.me/2016/04/develop-hexo-github-card/)
-    - [Yeoman based plugin generator](https://github.com/sebs/generator-hexo-plugin)
-    
+
 ## Third-party
 
   - [Hexo Editor](https://github.com/zhuzhuyule/HexoEditor) - Electron based editor for Hexo.
@@ -77,7 +76,6 @@
   - [NexT](https://theme-next.org/) - Hexo theme **NexT** home website. [Theme](https://github.com/theme-next/hexo-theme-next)
   - [Barret Lee](https://www.barretlee.com/) - Barret Lee's personal website. [Source Code](https://github.com/barretlee/blog)
   - [Litten](http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia)
-  - [Viosey's Blog](https://blog.viosey.com/) - Hexo theme **Material** author Viosey's personal blog. [Theme](https://github.com/viosey/hexo-theme-material)
   - [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) - Hexo wiki
   - [Elements of Programming Interviews](http://elementsofprogramminginterviews.com/) - Book site
   - [Sites using Hexo](https://www.wappalyzer.com/technologies/hexo) - List from Wappalyzer
