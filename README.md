@@ -44,6 +44,7 @@
   - [Build a Serverless Production-Ready Blog with Hexo on AWS](https://hackernoon.com/build-a-serverless-production-ready-blog-b1583c0a5ac2?gi=34e8961610b4)
   - [Hexo 中文教学](http://space.bilibili.com/362224537/channel/detail?cid=60350) - B站上的Hexo中文教学, 紧随官方文档
   - [EasyHexo](https://easyhexo.com/) -  🤘 Build your own website with Hexo, the easy way. | 轻松使用 Hexo 建站。
+  - [Working with Ghost and Hexo](https://ghost.org/docs/api/v2/hexo/) – Learn how to spin up a site using Ghost as a headless CMS and build a completely custom front-end with the static site generator Hexo
   
 ## Themes
 
