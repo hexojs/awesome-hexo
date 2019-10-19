@@ -56,6 +56,7 @@
       2. [Create an Hexo Theme - Part 2: Other Pages](http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-2-Other-Pages/)
       3. [Create an Hexo Theme - Part 3: Comments, Analytics and Widgets](http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-3-Comments-Analytics-and-Widgets/)
     - [Yeoman based theme generator](https://github.com/tcrowe/generator-hexo-theme)
+   - [JAMStack Themes (Hexo)](https://jamstackthemes.dev/ssg/hexo/) - A list of themes filterable by static site generator and CMS support (linking pre-filtered Hexo list).
   
 ## Plugins
 
