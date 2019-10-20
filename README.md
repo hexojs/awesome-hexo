@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hexojs/awesome-hexo/master/hexo-logo.png" alt="Hexo logo" width="100" height="100" align="right" />
+<img src="https://raw.githubusercontent.com/hexojs/logo/master/hexo-logo-avatar.png" alt="Hexo logo" width="100" height="100" align="right" />
 
 # Awesome Hexo  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/hexojs/awesome-hexo.svg?branch=master)](https://travis-ci.org/hexojs/awesome-hexo)
 
