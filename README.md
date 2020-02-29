@@ -73,6 +73,7 @@
   - [Theme NexT](https://theme-next.org) - Hexo theme **NexT** official website. [Source Code](https://github.com/theme-next/hexo-theme-next) & [Awesome NexT](https://github.com/theme-next/awesome-next)
   - [Barret Lee](https://www.barretlee.com/) - Barret Lee's personal website. [Source Code](https://github.com/barretlee/blog)
   - [Litten](http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia)
+  - [Jeremy Shaw](https://blog.jeremyshaw.co.nz/) - Jeremy Shaw's custom personal blog. [Source Code](https://github.com/puremana/personal-blog)
   - [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) - Hexo wiki
   - [Elements of Programming Interviews](http://elementsofprogramminginterviews.com/) - Book site
   - [Sites using Hexo](https://www.wappalyzer.com/technologies/hexo) - List from Wappalyzer
