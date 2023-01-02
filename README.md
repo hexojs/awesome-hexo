@@ -44,7 +44,6 @@
 ## Themes
 
   - [Themes List](https://hexo.io/themes/) - Whole list of hexo supported themes
-  - [Hexo top 10 themes](https://en.abnerchou.me/Blog/5c00ca67/) - Top 10 themes based on github stars by @NoahDragon
   - Building Themes
     - [CodeBlocq Series](http://www.codeblocq.com/tags/Hexo/)
       1. [Create an Hexo Theme - Part 1: Index](http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-1-Index/)
