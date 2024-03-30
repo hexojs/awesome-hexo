@@ -1,0 +1,20 @@
+name: Tester
+
+on: [push, pull_request]
+
+permissions:
+  contents: read
+
+jobs:
+  tester:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+      - name: Install Dependencies
+        run: gem install awesome_bot
+      - name: Test
+        run: awesome_bot README.md --allow-redirect --allow-dupe -w reddit.com,gitter.im
