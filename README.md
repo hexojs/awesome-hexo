@@ -33,7 +33,7 @@
 
   - [Getting Started with the Hexo Blogging Framework](https://www.cgmartin.com/2016/01/03/getting-started-with-hexo-blog/)
   - [Build Hexo 3.0 Blog on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04) - How to Create a Blog with Hexo On Ubuntu 14.04
-  - [Hexo 3.0 Chinese Tutorial](https://www.jianshu.com/p/465830080ea9?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weibo) - HEXO+Github,搭建属于自己的博客
+  - [Hexo 3.0 Chinese Tutorial](https://web.archive.org/web/20180817021855/https://www.jianshu.com/p/465830080ea9) - HEXO+Github,搭建属于自己的博客
   - [The Hexo Author Tommy Chen Presentation Video](https://www.ithome.com.tw/video/108430) - Modern Web 2016 - Hexo 開發歷程 by [Tommy Chen](https://github.com/tommy351)
   - [Hexo Tutorial](https://www.mikedane.com/static-site-generators/hexo/) - Hexo tutorial for v3.3.9 by Giraffe Academy
   - [Build a Serverless Production-Ready Blog with Hexo on AWS](https://hackernoon.com/build-a-serverless-production-ready-blog-b1583c0a5ac2?gi=34e8961610b4)
@@ -56,7 +56,7 @@
 
   - [Plugins List](https://hexo.io/plugins/) - Whole list of hexo supported plugins
   - Creating Plugins
-    - [Develop a plugin for Hexo - Github Card](https://blog.gisonrg.me/2016/04/develop-hexo-github-card/)
+    - [Develop a plugin for Hexo - Github Card](https://web.archive.org/web/20170214011902/http://blog.gisonrg.me/2016/develop-hexo-github-card/)
 
 ## Third-party
 
@@ -71,7 +71,7 @@
   - [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/docs)
   - [Theme NexT](https://theme-next.org) - Hexo theme **NexT** official website. [Source Code](https://github.com/theme-next/hexo-theme-next) & [Awesome NexT](https://github.com/theme-next/awesome-next)
   - [Barret Lee](https://www.barretlee.com/) - Barret Lee's personal website. [Source Code](https://github.com/barretlee/blog)
-  - [Litten](http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia)
+  - [Litten](https://web.archive.org/web/20210617214124/http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia)
   - [Jeremy Shaw](https://blog.jeremyshaw.co.nz/) - Jeremy Shaw's custom personal blog. [Source Code](https://github.com/puremana/personal-blog)
   - [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) - Hexo wiki
   - [Elements of Programming Interviews](http://elementsofprogramminginterviews.com/) - Book site

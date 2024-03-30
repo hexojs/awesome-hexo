@@ -17,4 +17,4 @@ jobs:
       - name: Install Dependencies
         run: gem install awesome_bot
       - name: Test
-        run: awesome_bot README.md --allow-redirect --allow-dupe -w weibo.com,viosey.com,hackernoon.com
+        run: awesome_bot README.md --allow-redirect --allow-dupe -w reddit.com,gitter.im
