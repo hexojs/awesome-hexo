@@ -83,7 +83,7 @@
 ## Deployment
 
   - [docker-hexo](https://github.com/RammusXu/docker-hexo) - Write a blog and develop it in a docker environment. Easily set up and release using docker
-
+  - [CloudRay](https://cloudray.io/articles/how-to-deploy-your-hexo-site) - Learn hown to automate the deployment of Hexo on Ubuntu using CloudRay, a centralised platform that helps you automate server tasks through Bash scripting.
 
 <!---- Content should above this line ---->
 <br/>
