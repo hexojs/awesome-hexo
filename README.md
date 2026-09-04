@@ -63,6 +63,7 @@
   - [Hexo Editor](https://github.com/zhuzhuyule/HexoEditor) - Electron based editor for Hexo
   - [Hexo Client](https://github.com/gaoyoubo/hexo-client) - Cross-Platform Hexo Client
   - [Hexo Action](https://github.com/heowc/action-hexo) - GitHub Action for Hexo
+  - [hexo-recover](https://github.com/Belyenochi/hexo-recover) - Rebuild the Markdown sources from a generated Hexo site and verify the rebuild
   
 ## Showcases
 
